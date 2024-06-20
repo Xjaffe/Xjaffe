@@ -1,3 +1,4 @@
+![logo](https://github.com/Xjaffe/Xjaffe/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Zeeshan Jaffer</h1>
 <h2 align="center">Hallo 👋, Ich Bin Zeeshan Jaffer</h2>
 <h3 align="center">A passionate SDET Engineer from Pakistan</h3>
