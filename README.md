@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xjaffe](https://github.com/Xjaffe)
 
-- 📝 I regularly write articles on [https://scrolltest.com/](https://scrolltest.com/)
-
 - 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Appium**
 
 - 📫 How to reach me **zeeshantester13@gmail.com**
